@@ -25,7 +25,11 @@ Este é um dos repositórios do projeto de alunos do Inteli em parceria com uma 
 
 # Guia de instalação
 
-*Escreva aqui as instruções para a instalação.*
+*Escreva aqui as instruções para a instalação e execução da aplicação.*
+
+# Guia para preparar o ambiente de desenvolvimento
+
+*Escreva aqui as instruções para um desenvolvedor conseguir preparar o ambiente de desenvolvimento no seu computador.*
 
 # Licença
 
